@@ -4,10 +4,10 @@
 // selects the database, and sets the encoding.
 
 // Set the database access information as constants:
-DEFINE ('DB_USER', 'eordanis');
-DEFINE ('DB_PASSWORD', '0691609');
-DEFINE ('DB_HOST', 'imc.kean.edu');
-DEFINE ('DB_NAME', 'CPS3740_2015S');
+DEFINE ('DB_USER', '');
+DEFINE ('DB_PASSWORD', '');
+DEFINE ('DB_HOST', '');
+DEFINE ('DB_NAME', '');
 
 
 
